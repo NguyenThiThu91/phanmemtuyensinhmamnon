@@ -1,0 +1,6 @@
+{
+  "name": "Tuyển Sinh Mầm Non Yên Bài - Hà Nội",
+  "description": "Cổng thông tin và đăng ký tuyển sinh trực tuyến Trường Mầm non Yên Bài (xã Yên Bài, Hà Nội), tiếp nhận phiếu đăng ký, quản lý xét duyệt hồ sơ và xuất danh sách bảng biểu Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
